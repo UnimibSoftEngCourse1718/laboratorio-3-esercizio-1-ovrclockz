@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.vogella.maven.quickstart.AppTest" time="0.003" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="9.0.1+11"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\eclipse-workspace\quickstart"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\eclipse-workspace\quickstart"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="9.0.1+11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\OVRCLO~1.LAP\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\eclipse-workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf11245347344763625143.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-9.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\ProgramData\ComposerSetup\bin;C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\AppData\Local\Yarn\config\global\node_modules\.bin;C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\AppData\Roaming\Composer\vendor\bin;C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\AppData\Roaming\npm;D:\laragon\bin;D:\laragon\bin\apache\httpd-2.4.27-win64-VC14\bin;D:\laragon\bin\composer;D:\laragon\bin\git\bin;D:\laragon\bin\git\cmd;D:\laragon\bin\git\mingw64\bin;D:\laragon\bin\git\usr\bin;D:\laragon\bin\laragon\utils;D:\laragon\bin\mysql\mysql-5.7.19-winx64\bin;D:\laragon\bin\nginx\nginx-1.12.0;D:\laragon\bin\ngrok;D:\laragon\bin\nodejs\node-v6.11.3-x64;D:\laragon\bin\notepad++;D:\laragon\bin\php\php-7.1.7-Win32-VC14-x64;D:\laragon\bin\putty;D:\laragon\bin\redis\redis-x64-3.2.100;D:\laragon\bin\telnet;D:\laragon\bin\yarn\bin;D:\laragon\usr\bin;C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\MongoDB\Server\3.4\bin;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="53.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Ovrclock.LAPTOP-CQ6BC2S7"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="9"/>
+    <property name="user.name" value="Ovrclock"/>
+    <property name="java.class.path" value="C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.8.2.20171007-0216\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean verify"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-9.0.1"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="9.0.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\Ovrclock.LAPTOP-CQ6BC2S7\eclipse-workspace\quickstart\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.vogella.maven.quickstart.AppTest" name="testApp" time="0.003"/>
+</testsuite>
